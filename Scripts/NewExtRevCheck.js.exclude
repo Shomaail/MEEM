@@ -1,0 +1,27 @@
+﻿
+    function validateMailingAddress() {
+        var x = document.getElementById("tbMailingAddress");
+        var y = x.value.toLowerCase();
+
+        if (y.search("univ") == -1 &&
+                         y.search("üniversite") == -1 && y.search("yliopisto") == -1 &&
+                         y.search("MIT") == -1 && y.search("UOIT") == -1 && y.search("School") == -1 &&
+                         y.search("Polytechnique") == -1 && y.search("Ecole") == -1 && y.search("جامعه") == -1 &&
+                         y.search("uniwersytet") == -1 && y.search("Tech") == -1 && y.search("Institute") == -1 &&
+                         y.search("Imperial College") == -1)
+        {
+
+            x.style.backgroundColor = "pink";
+            x.validity = false;
+                
+        }
+        else { x.style.backgroundColor = "white"; }
+
+    } function check(input) {
+        if (input.validity.typeMismatch) {
+            input.setCustomValidity("Dude '" + input.value + "' is not valid. Enter something nice!!");
+        }
+        else {
+            input.setCustomValidity("");
+        }
+    }
