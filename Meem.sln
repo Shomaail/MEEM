@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C1A71EEF-D3EC-499D-8F19-999526442F5D}"
+	ProjectSection(SolutionItems) = preProject
+		Main.html = Main.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "App_Themes", "App_Themes", "{F2542127-194C-40C9-82E8-E4EB1C917CAD}"
+	ProjectSection(SolutionItems) = preProject
+		App_Themes\3-col-portfolio.css = App_Themes\3-col-portfolio.css
+		App_Themes\bootstrap.css = App_Themes\bootstrap.css
+		App_Themes\bootstrap.min.css = App_Themes\bootstrap.min.css
+		App_Themes\bootstrap.min1.css = App_Themes\bootstrap.min1.css
+		App_Themes\default.css = App_Themes\default.css
+		App_Themes\lightwindow.css = App_Themes\lightwindow.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Default", "Default", "{2837CC1E-D7B6-4249-9124-FA8DC9AE6C0A}"
+	ProjectSection(SolutionItems) = preProject
+		App_Themes\Default\SkinFile.skin = App_Themes\Default\SkinFile.skin
+		App_Themes\Default\StyleSheet.css = App_Themes\Default\StyleSheet.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "fonts", "fonts", "{2317525A-A2BB-4A2E-8D4B-5821444DB8A1}"
+	ProjectSection(SolutionItems) = preProject
+		App_Themes\fonts\glyphicons-halflings-regular.eot = App_Themes\fonts\glyphicons-halflings-regular.eot
+		App_Themes\fonts\glyphicons-halflings-regular.svg = App_Themes\fonts\glyphicons-halflings-regular.svg
+		App_Themes\fonts\glyphicons-halflings-regular.ttf = App_Themes\fonts\glyphicons-halflings-regular.ttf
+		App_Themes\fonts\glyphicons-halflings-regular.woff = App_Themes\fonts\glyphicons-halflings-regular.woff
+		App_Themes\fonts\glyphicons-halflings-regular.woff2 = App_Themes\fonts\glyphicons-halflings-regular.woff2
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Print", "Print", "{B924C99A-2D15-4667-B34C-CEF23F7110E7}"
+	ProjectSection(SolutionItems) = preProject
+		App_Themes\Print\StyleSheet.css = App_Themes\Print\StyleSheet.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scripts", "Scripts", "{9710DF46-C021-467E-B617-A388C09F9F4C}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F2542127-194C-40C9-82E8-E4EB1C917CAD} = {C1A71EEF-D3EC-499D-8F19-999526442F5D}
+		{2837CC1E-D7B6-4249-9124-FA8DC9AE6C0A} = {F2542127-194C-40C9-82E8-E4EB1C917CAD}
+		{2317525A-A2BB-4A2E-8D4B-5821444DB8A1} = {F2542127-194C-40C9-82E8-E4EB1C917CAD}
+		{B924C99A-2D15-4667-B34C-CEF23F7110E7} = {F2542127-194C-40C9-82E8-E4EB1C917CAD}
+		{9710DF46-C021-467E-B617-A388C09F9F4C} = {C1A71EEF-D3EC-499D-8F19-999526442F5D}
+	EndGlobalSection
+EndGlobal

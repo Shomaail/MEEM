@@ -1,0 +1,52 @@
+﻿.TablePageHeader
+{
+	width: 100%;
+	margin-bottom: 10px;
+	border-spacing: 0px;
+}
+body 
+{
+    font-family: Georgia, Times New Roman, Arial;
+    height:100%;
+}
+
+h1
+{
+    font-size:20pt;
+    background-color:#efefef;
+    padding-bottom: 3px;
+    border-bottom: 1px solid black;
+    padding-left:5px;
+}
+
+h3
+{
+    color: black;
+}
+
+.PointsTable
+{
+    width: 600px;    
+}
+
+.PointsHeader
+{
+    background-color:white;
+    color:black;
+}
+.PointsLeftHeader
+{
+    padding:1px 3px;
+    border-bottom:none;
+}
+
+.PointsHeaderSecondRow
+{
+    border-top:none;
+}
+
+
+.PointsWhiteBorder
+{
+    border-top:none;
+}
