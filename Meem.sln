@@ -40,6 +40,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Print", "Print", "{B924C99A
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scripts", "Scripts", "{9710DF46-C021-467E-B617-A388C09F9F4C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{DB281CEB-A43C-4E5E-99A7-0B359B19D7B8}"
+	ProjectSection(SolutionItems) = preProject
+		images\scroll-top-arrow.png = images\scroll-top-arrow.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -50,5 +55,6 @@ Global
 		{2317525A-A2BB-4A2E-8D4B-5821444DB8A1} = {F2542127-194C-40C9-82E8-E4EB1C917CAD}
 		{B924C99A-2D15-4667-B34C-CEF23F7110E7} = {F2542127-194C-40C9-82E8-E4EB1C917CAD}
 		{9710DF46-C021-467E-B617-A388C09F9F4C} = {C1A71EEF-D3EC-499D-8F19-999526442F5D}
+		{DB281CEB-A43C-4E5E-99A7-0B359B19D7B8} = {C1A71EEF-D3EC-499D-8F19-999526442F5D}
 	EndGlobalSection
 EndGlobal

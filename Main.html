@@ -17,7 +17,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-    <title><%=ConfigurationManager.AppSettings["System_Title"] %></title>
+    <title>MEEM Web-based Information Systems</title>
 
 
     <!-- Bootstrap Core CSS -->
@@ -25,7 +25,19 @@
 
     <!-- Custom CSS -->
     <link href="../App_Themes/3-col-portfolio.css" rel="stylesheet">
-    <style>      
+    <style>
+        .scrollup {
+    width: 40px;
+    height: 40px;
+    opacity: 1;
+    position: fixed;
+    bottom: 22px;
+    right: 20px;
+    display: none;
+    text-indent: -9999px;
+    background: url(images/scroll-top-arrow.png) no-repeat left top;
+    z-index: 9001;
+}      
           ul {
             list-style-type: none;
             margin: 0;
@@ -44,6 +56,7 @@
             
         }
 
+
             /* Change the link color on hover */
             li a:hover {
                 background-color: #555;
@@ -55,44 +68,65 @@
     <div style="border-style: solid; border-color: inherit; border-width: 0px; margin-left: 20px; margin-top: 20px; margin-right: 20px; height: 93px; background-color: #F8F8F8;"
          id="divTop" >
         <div style="float: left; padding-left: 20px">
-            <h1>MEEM Web based Systems</h1>
+            <h1>MEEM Web-based Information Systems</h1>
         </div>
     </div>
 
 
     <table id="tableHTML" style="margin: 20px 0px 20px 20px;">
         <tr>
-            <td valign="top" id="tdLeftMenu">
-                <ul id="Menu">
-                    <li>Home</li>
-                    <li>Our Products</li>
-                    <li>Contact</li>
+            
+                <td valign="top" id="tdLeftMenu">
+                        <ul id="Menu" >
+                            <li><a href="Main.html">Home</a></li>
+                            <li><a href="Main.html#Product">Products</a></li>
+                            <li><a href="Main.html#Contact">Contact</a></li>
 
-                </ul>
+                        </ul>
 
             </td>
+
             <td valign="top" style="padding-left: 3px; padding-right: 20px; width: 100%; height: 100%;">
                 <table cellpadding="0" cellspacing="0" border="0" width="100%" style="margin-bottom: 10px; border-bottom: 2px solid #007d40; padding: 3px 3px; background-color: #f7f7f7">
                     <tr>
                         <td>
-                            <h3>
-                                <span class="label label-default">
-                                    
-                                </span>
-                            </h3>
-
+                            <div style="height:1000px">
+                                <a name="Home"> </a>
+                                <h3>
+                                    <span class="label label-default">
+                                        Home
+                                    </span>
+                                </h3>
+                                Our Goal is to come up with automated solutions using our ready to use products
+                            </div>
+                            <div style="height:1000px">
+                                <a name="Product"></a><h3>
+                                    <span class="label label-default">
+                                        Products
+                                    </span><a href="#" class="scrollup" style="display: block;">Scroll</a>
+                                </h3>
+                                These are our products:
+                            </div>
+                            <div style="height:1000px">
+                                <a name="Contact"> </a><h3>
+                                    <span class="label label-default">
+                                        Contact
+                                    </span>
+                                </h3>
+                                Here is our contact
+                            </div>
                         </td>
                     </tr>
                 </table>
-                </td>
-            </tr>
+            </td>
+        </tr>
     </table>
     <footer>
         <div id="divFooter"  class="row">
             <div class="col-lg-12" align="center">
                 <p>All Rights Reserved Copyright &copy; 2017 </p>
                 <p>
-                    MEEM Web based System
+                    MEEM Web-based Information System
                     <br>
                     
                 </p>
