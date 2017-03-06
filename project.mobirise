@@ -222,9 +222,9 @@
             }
           },
           "title1": "Faculty Promotion System",
-          "subtitle1": "A paper-less automation of the promotion process of any university",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "subtitle1": "A cusomizable web-based automation for faculty promotion process for any university",
+          "caption1": "It is a workflow system for promoting faculty candidates to a higher rank in a university. The system allows uploading of documents, maintaining research points sheets, selection of external reviewers, to and fro movement of promotion application among different departments, tracking of application with automatic email reminders etc. The system is easy to integrate and customizable online",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
@@ -234,8 +234,8 @@
             }
           },
           "title2": "Events Management System",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "subtitle2": "A customizable web-based automation for Managing Events in any organization&nbsp;",
+          "caption2": "It is a portal to Create, Modify, Search and Delete Events. Regitration of Speakers,Room and Attendants &nbsp;is carried out through user-friendly online forms. The concerned users are consequently reminded with Email reminders.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
@@ -250,8 +250,8 @@
             }
           },
           "title3": "Inventory System&nbsp;",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "subtitle3": "A customizeable web-based automation of Store items for managing items in any store",
+          "caption3": "Process of Issuing, returning, discarding, and adding new items &nbsp;in a store is automated.High-level summarized reports are made for the Higher authorities to help make decisions&nbsp;",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
@@ -262,7 +262,7 @@
             }
           },
           "title4": "Budget Adminitration System&nbsp;",
-          "subtitle4": "Mobirise gives you the freedom to develop",
+          "subtitle4": "A customizeable web-based automation for Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
