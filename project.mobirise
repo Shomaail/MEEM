@@ -102,7 +102,7 @@
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "collapsed": true,
             "hideButtons": true
@@ -110,10 +110,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/kfupm-seal-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -262,7 +264,7 @@
             }
           },
           "title4": "Budget Adminitration System&nbsp;",
-          "subtitle4": "A customizeable web-based automation for administrering Budgets of Projects Grants. &nbsp;Mobirise gives you the freedom to develop",
+          "subtitle4": "A customizeable web-based automation for administrering Budgets of Projects Grants. &nbsp;",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
