@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 5,
+    "uniqCompNum": 6,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -183,8 +183,8 @@
           "_name": "features3",
           "_anchor": "features3-2",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -206,7 +206,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-1-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/promotion-600x406.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
