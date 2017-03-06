@@ -15,9 +15,9 @@
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
-        "isRoundedButtons": false,
+        "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false,
+        "isScrollToTopButton": true,
         "isRtl": false
       }
     },
@@ -174,7 +174,12 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2017 MEEM web-based Informaiton Systems.",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            }
+          }
         },
         {
           "_tags": [
@@ -217,7 +222,7 @@
             }
           },
           "title1": "Faculty Promotion System",
-          "subtitle1": "Bootstrap 4 has been noted",
+          "subtitle1": "A paper-less automation of the promotion process of any university",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
@@ -414,7 +419,7 @@
           "title": "CONTACT FORM",
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
           "form": {
-            "action": "",
+            "action": "shomaail@gmail.com",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
