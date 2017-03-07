@@ -150,7 +150,7 @@
             "showButtons": false
           },
           "title": "MEEM Web-based Information System",
-          "text": "We provide customized ready-to-use products for automation.",
+          "text": "We provide customized ready-to-use products for office automation.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a>",
           "_styles": {
             ".mbr-section-title": {
@@ -331,7 +331,7 @@
             "showSubTitle": true
           },
           "title": "CONTACT FORM",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "subtitle": "Replace your current paper-based with to-date web-based automation .",
           "form": {
             "action": "shomaail@gmail.com",
             "alerts": {
