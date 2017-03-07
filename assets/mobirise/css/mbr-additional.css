@@ -490,6 +490,9 @@ h6,
 #footer1-2 P {
   text-align: right;
 }
+#features3-2 P {
+  text-align: left;
+}
 #form1-3 .form-control-label {
   color: #232323;
 }
