@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 7,
+    "uniqCompNum": 9,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -109,7 +109,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/kfupm-seal-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/meem-128x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -128,7 +128,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"www.kfupm.edu.sa\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">kfupm.edu.sa</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-1\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-2\" aria-expanded=\"true\">PRODUCTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-3\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-1\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-7\" aria-expanded=\"false\">PRODUCTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-3\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "header1",
@@ -138,7 +138,7 @@
               "color": "#b8312f"
             },
             ".mbr-section-lead": {
-              "color": "#553982"
+              "color": "#f97352"
             }
           },
           "_anchor": "header1-1",
@@ -146,7 +146,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1334.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -161,9 +161,67 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "MEEM Web-based Information System",
-          "text": "A KFUPM brand for commercializing web-based applications. We provide customized ready-to-use products for office automation.<br>",
+          "title": "بسم الله الرحمن الرحيم<br>MEEM Web-based Solutions<br>",
+          "text": "A showcase of webabsed solutions for automating paper-based workflows in any organuzation.&nbsp;We provide customized ready-to-use products for office automation.<br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-7",
+          "_params": {
+            "imageSize": "70",
+            "paddingTop": "5",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "MEEM Workflow Automation System&nbsp;",
+          "text": "Workflow is a set of tasks &nbsp;arranged in a predefined pattern &nbsp;to carry out a specific procedure. Typically in all oganizations, this &nbsp;is carried out &nbsp;using paper memos &nbsp;with signature s or emails. <br><br>Our product, MEEM workflow automation system, automates such process &nbsp;in minimal time to make a paper-less environment &nbsp;using web-based electronic resources.&nbsp;<br><br>Following are some examples of workflows which has been successfully sutomated using MEEM Workflow automation system.&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-size": "19px"
+            },
+            "H3": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_name": "footer1",
@@ -185,7 +243,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 MEEM web-based Informaiton Systems."
+          "text": "Copyright (c) 2019 MEEM web-based Solutions."
         },
         {
           "_tags": [
@@ -266,7 +324,7 @@
           },
           "title3": "Inventory System&nbsp;",
           "subtitle3": "A customizeable web-based automation of Store items for managing items in any store",
-          "caption3": "Process of Issuing, returning, discarding, and adding new items &nbsp;in a store is automated.High-level summarized reports are made for the Higher authorities to help make decisions.&nbsp;",
+          "caption3": "Process of Issuing, returning, discarding, and adding new items &nbsp;in a store is automated.High-level summarized reports are made for the Higher authorities to help make decisions&nbsp;",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
@@ -346,7 +404,7 @@
             "showSubTitle": true
           },
           "title": "CONTACT FORM",
-          "subtitle": "Replace your current paper-based with to-date web-based automation . <br>Fill in the form below if you would like to have a demo of the above-mentioned products. &nbsp;",
+          "subtitle": "Replace your current paper-based with to-date web-based automation .",
           "form": {
             "action": "shomaail@gmail.com",
             "alerts": {

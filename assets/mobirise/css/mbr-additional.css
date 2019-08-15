@@ -485,7 +485,14 @@ h6,
   color: #b8312f;
 }
 #header1-1 .mbr-section-lead {
-  color: #553982;
+  color: #f97352;
+}
+#msg-box5-7 P {
+  text-align: left;
+  font-size: 19px;
+}
+#msg-box5-7 H3 {
+  text-align: left;
 }
 #footer1-2 P {
   text-align: right;
